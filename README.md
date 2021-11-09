@@ -16,4 +16,4 @@ https://github.com/odoo/odoo
 
 Afeter install my_crm inside Odoo, using CRM we can see the new fields.
 
-![alt text](https://github.com/LeonardoFM/Odoo_CRM_extension/docs/images/image.jpg?raw=true)
+![alt text](https://github.com/LeonardoFM/Odoo_CRM_extension/blob/main/docs/images/exe_1.png?raw=true)
